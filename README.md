@@ -1,6 +1,6 @@
-# image-processing+
+# image_processing_ar
 
-Description. The package image-processing+ is used to: 
+Description. The package image_processing_ar is used to: 
 
 	Processing:
 		- Histrogram matching
@@ -14,15 +14,15 @@ Description. The package image-processing+ is used to:
 		- Plot histogram
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image-processing+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing_ar
 ```bash
-pip install image-processing+
+pip install image_processing_ar
 ```
 
 ## Usage
 
 ```python
-from image-processing+.module1_name import file1_name
+from image_processing_ar.module1_name import file1_name
 file1_name.my_function()
 ```
 
