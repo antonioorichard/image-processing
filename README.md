@@ -1,6 +1,6 @@
-# image_processing_AR
+# image_processing_ar_2025
 
-Description. The package image_processing_AR is used to: 
+Description. The package image_processing_ar_2025 is used to: 
 
 	Processing:
 		- Histrogram matching
@@ -14,15 +14,15 @@ Description. The package image_processing_AR is used to:
 		- Plot histogram
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing__ar
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing_ar_2025
 ```bash
-pip install image_processing_AR
+pip install image_processing_ar_2025
 ```
 
 ## Usage
 
 ```python
-from image_processing_AR.module1_name import file1_name
+from image_processing_ar_2025.module1_name import file1_name
 file1_name.my_function()
 ```
 
