@@ -1,6 +1,6 @@
-# image_processing__ar
+# image_processing_AR
 
-Description. The package image_processing__ar is used to: 
+Description. The package image_processing_AR is used to: 
 
 	Processing:
 		- Histrogram matching
@@ -16,13 +16,13 @@ Description. The package image_processing__ar is used to:
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing__ar
 ```bash
-pip install image_processing__ar
+pip install image_processing_AR
 ```
 
 ## Usage
 
 ```python
-from image_processing__ar.module1_name import file1_name
+from image_processing_AR.module1_name import file1_name
 file1_name.my_function()
 ```
 
