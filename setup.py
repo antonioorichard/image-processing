@@ -14,7 +14,7 @@ setup(
     description="Processador de imagens",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/antonioorichard/processamento_de_imagens",
+    url="https://github.com/antonioorichard/image-processing/tree/beta",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
